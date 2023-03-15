@@ -1,4 +1,4 @@
-"","longitude","latitude","observed_on","common_name","scientific_name","image_url","iconic_taxon_name","license"
+"","longitude","latitude","observed_on","common_name","scientific_name","image_url","taxon","license"
 "1",-76.6067837404,44.2261474246,"2022-10-23","Fungi Including Lichens","Fungi","https://inaturalist-open-data.s3.amazonaws.com/photos/239081425/medium.jpg","Fungi","CC-BY-NC"
 "2",-76.6100861133,44.2239644577,"2022-10-23","brittlegills","Russula","https://inaturalist-open-data.s3.amazonaws.com/photos/239081138/medium.jpg","Fungi","CC-BY-NC"
 "3",-76.6128679387,44.222891663,"2022-10-23","","Lentinellus","https://inaturalist-open-data.s3.amazonaws.com/photos/239080932/medium.jpg","Fungi","CC-BY-NC"
